@@ -29,6 +29,7 @@ nav:
       - 第十三章: literature/ZJL-gospels/ch13.md
   - 音乐:
     - ZJL 狱音放送: music/ZJL-voices.md
+    - 《ZJL 响叮当》: music/Jingling-Bells.md
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
