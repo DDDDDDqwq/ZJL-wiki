@@ -64,13 +64,13 @@
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
-- 「花Q」
+- 「花Q」（婉转）
 
     <audio controls src="../voices/fuckyou.mp3">
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
-- 「花Q」（婉转）
+- 「口勒个口勒个口口勒个口勒个口口」（高攻击性警告）
 
     <audio controls src="../voices/zjl好听.mp3">
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
