@@ -10,6 +10,12 @@
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
+- 「不是不是不是」
+
+    <audio controls src="../voices/不是不是不是.m4a">
+      <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
+    </audio>
+
 - 神の吠（高音量预警）
 
     <audio controls src="../voices/ZJL狗叫(两声).m4a">
