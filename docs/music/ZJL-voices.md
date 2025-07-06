@@ -4,6 +4,18 @@
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
+- 「啊？」
+
+    <audio controls src="../voices/啊？.WAV">
+      <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
+    </audio>
+
+- 「不是不是不是」
+
+    <audio controls src="../voices/不是不是不是.m4a">
+      <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
+    </audio>
+
 - 「不是哥们」
 
     <audio controls src="../voices/不是哥们.m4a">
@@ -64,13 +76,13 @@
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
-- 「花Q」
+- 「花Q」（婉转）
 
     <audio controls src="../voices/fuckyou.mp3">
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
     </audio>
 
-- 「花Q」（婉转）
+- 「口勒个口勒个口口，口口口勒个口口」（高攻击性警告）
 
     <audio controls src="../voices/zjl好听.mp3">
       <span style="font-size:xx-small;">这里本应有一个 audio 元素，可惜您的浏览器并不支持 TAT</span>
