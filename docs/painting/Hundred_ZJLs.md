@@ -15,6 +15,7 @@
 
 ## 实物照
 
-![《百钧图》正面](./images/百钧图.JPG)
+[![《百钧图》正面](./images/百钧图-compressed.webp)](./images/百钧图.JPG)
 
-![《百钧图》背面](./images/百钧图(back).JPG)
+[![《百钧图》背面](./images/百钧图(back)-compressed.webp)](./images/百钧图(back).JPG)
+
