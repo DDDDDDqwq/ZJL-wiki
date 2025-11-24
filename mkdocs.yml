@@ -36,6 +36,8 @@ nav:
   - 音乐:
     - ZJL 狱音放送: music/ZJL-voices.md
     - 《ZJL 响叮当》: music/Jingling-Bells.md
+  - 视频:
+    - ZJL神秘PV 2.0: video/ZJL-pv-2.md
 
 extra_javascript:
   - scripts/mathjax.js
