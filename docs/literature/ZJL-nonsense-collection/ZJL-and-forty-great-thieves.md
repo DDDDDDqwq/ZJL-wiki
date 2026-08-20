@@ -148,13 +148,29 @@
 
 $$
 \mathrm{I\ am\ the\ owner\ of\ my\ butt.}\\
+$$
+$$
 \mathrm{Moon\ is\ my\ toilet\ and\ crater\ is\ my\ closetool.}\\
+$$
+$$
 \mathrm{I\ have\ been\ to\ thousands\ of\ toilets.}\\
+$$
+$$
 \mathrm{Unknown\ to\ finish.}\\
+$$
+$$
 \mathrm{Nor\ known\ to\ begin.}\\
+$$
+$$
 \mathrm{Have\ withstood\ pain\ to\ excrete\ much\ shit.}\\
+$$
+$$
 \mathrm{Yet,\ my\ butt\ will\ never\ cling\ anything.}\\
+$$
+$$
 \mathrm{So\ as\ I\ prayed\ -}\\
+$$
+$$
 \mathop{\textup{Unlimited Butt Diameters!}}\limits^{无\ \ \ \ \ \ \ \ 限\ \ \ \ \ \ \ \ 臀\ \ \ \ \ \ \ \ 径}
 $$
 
